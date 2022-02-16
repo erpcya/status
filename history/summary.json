@@ -167,18 +167,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "el-criollito",
     "status": "up",
-    "uptime": "54.93%",
-    "uptimeDay": "54.93%",
-    "uptimeWeek": "54.93%",
-    "uptimeMonth": "54.93%",
-    "uptimeYear": "54.93%",
+    "uptime": "55.82%",
+    "uptimeDay": "55.82%",
+    "uptimeWeek": "55.82%",
+    "uptimeMonth": "55.82%",
+    "uptimeYear": "55.82%",
     "time": 257,
     "timeDay": 257,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-02-16": 567
+      "2022-02-16": 559
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "$URL_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "industrias-bjt",
-    "status": "down",
-    "uptime": "52.58%",
-    "uptimeDay": "52.58%",
-    "uptimeWeek": "52.58%",
-    "uptimeMonth": "52.58%",
-    "uptimeYear": "52.58%",
-    "time": 261,
-    "timeDay": 261,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "52.26%",
+    "uptimeDay": "52.26%",
+    "uptimeWeek": "52.26%",
+    "uptimeMonth": "52.26%",
+    "uptimeYear": "52.26%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2022-02-16": 599
+      "2022-02-16": 607
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "$URL_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hc-import",
-    "status": "down",
-    "uptime": "54.96%",
-    "uptimeDay": "54.96%",
-    "uptimeWeek": "54.96%",
-    "uptimeMonth": "54.96%",
-    "uptimeYear": "54.96%",
+    "status": "up",
+    "uptime": "54.56%",
+    "uptimeDay": "54.56%",
+    "uptimeWeek": "54.56%",
+    "uptimeMonth": "54.56%",
+    "uptimeYear": "54.56%",
     "time": 220,
     "timeDay": 220,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2022-02-16": 476
+      "2022-02-16": 484
     }
   },
   {
@@ -226,19 +226,19 @@
     "url": "$URL_13",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vealca",
-    "status": "down",
-    "uptime": "50.92%",
-    "uptimeDay": "50.92%",
-    "uptimeWeek": "50.92%",
-    "uptimeMonth": "50.92%",
-    "uptimeYear": "50.92%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "status": "up",
+    "uptime": "50.62%",
+    "uptimeDay": "50.62%",
+    "uptimeWeek": "50.62%",
+    "uptimeMonth": "50.62%",
+    "uptimeYear": "50.62%",
+    "time": 239,
+    "timeDay": 239,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2022-02-16": 618
+      "2022-02-16": 626
     }
   },
   {
@@ -247,18 +247,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "los-tres-grandes",
     "status": "down",
-    "uptime": "50.92%",
-    "uptimeDay": "50.92%",
-    "uptimeWeek": "50.92%",
-    "uptimeMonth": "50.92%",
-    "uptimeYear": "50.92%",
+    "uptime": "50.60%",
+    "uptimeDay": "50.60%",
+    "uptimeWeek": "50.60%",
+    "uptimeMonth": "50.60%",
+    "uptimeYear": "50.60%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 244,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-02-16": 615
+      "2022-02-16": 623
     }
   },
   {
@@ -266,19 +266,19 @@
     "url": "$URL_15",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nino",
-    "status": "down",
-    "uptime": "51.66%",
-    "uptimeDay": "51.66%",
-    "uptimeWeek": "51.66%",
-    "uptimeMonth": "51.66%",
-    "uptimeYear": "51.66%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "status": "up",
+    "uptime": "51.35%",
+    "uptimeDay": "51.35%",
+    "uptimeWeek": "51.35%",
+    "uptimeMonth": "51.35%",
+    "uptimeYear": "51.35%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2022-02-16": 607
+      "2022-02-16": 615
     }
   },
   {
@@ -286,19 +286,19 @@
     "url": "$URL_16",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "la-especial",
-    "status": "down",
-    "uptime": "54.54%",
-    "uptimeDay": "54.54%",
-    "uptimeWeek": "54.54%",
-    "uptimeMonth": "54.54%",
-    "uptimeYear": "54.54%",
-    "time": 379,
-    "timeDay": 379,
-    "timeWeek": 379,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "status": "up",
+    "uptime": "54.21%",
+    "uptimeDay": "54.21%",
+    "uptimeWeek": "54.21%",
+    "uptimeMonth": "54.21%",
+    "uptimeYear": "54.21%",
+    "time": 377,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-02-16": 570
+      "2022-02-16": 578
     }
   }
 ]
