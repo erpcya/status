@@ -21,11 +21,11 @@ sites:
     url: $URL_8
   - name: ERP Administración
     url: $URL_9
-  - name: el Criollito
+  - name: El Criollito
     url: $URL_10
   - name: Industrias BJT
     url: $URL_11
-  - name: HR Import
+  - name: HC Import
     url: $URL_12
   - name: Vealca
     url: $URL_13
