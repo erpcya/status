@@ -1,21 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: erpcya # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Semilla
+    url: $URL_1
+  - name: Template
+    url: $URL_2
+  - name: Demo ERP
+    url: $URL_3
+  - name: Demo ERP (Vue)
+    url: $URL_4
+  - name: ERP
+    url: $URL_5
+  - name: Prosein
+    url: $URL_6
+  - name: CID Invest Corp
+    url: $URL_7
+  - name: CID Invest Corp (Vue)
+    url: $URL_8
+  - name: ERP Administración
+    url: $URL_9
+  - name: el Criollito
+    url: $URL_10
+  - name: Industrias BJT
+    url: $URL_11
+  - name: HR Import
+    url: $URL_12
+  - name: Vealca
+    url: $URL_13
+  - name: Los Tres Grandes 
+    url: $URL_14
+  - name: Nino
+    url: $URL_15
+  - name: La Especial
+    url: $URL_16
+
+assignees:
+  - carlosaparadam
+  - yamelsenih
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.erpya.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
