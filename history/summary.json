@@ -167,18 +167,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "el-criollito",
     "status": "down",
-    "uptime": "47.52%",
-    "uptimeDay": "47.52%",
-    "uptimeWeek": "47.52%",
-    "uptimeMonth": "47.52%",
-    "uptimeYear": "47.52%",
+    "uptime": "46.53%",
+    "uptimeDay": "46.53%",
+    "uptimeWeek": "46.53%",
+    "uptimeMonth": "46.53%",
+    "uptimeYear": "46.53%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-02-16": 186
+      "2022-02-16": 194
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "industrias-bjt",
     "status": "down",
-    "uptime": "54.24%",
-    "uptimeDay": "54.24%",
-    "uptimeWeek": "54.24%",
-    "uptimeMonth": "54.24%",
-    "uptimeYear": "54.24%",
+    "uptime": "53.11%",
+    "uptimeDay": "53.11%",
+    "uptimeWeek": "53.11%",
+    "uptimeMonth": "53.11%",
+    "uptimeYear": "53.11%",
     "time": 223,
     "timeDay": 223,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-02-16": 163
+      "2022-02-16": 171
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "$URL_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hc-import",
-    "status": "up",
-    "uptime": "27.94%",
-    "uptimeDay": "27.94%",
-    "uptimeWeek": "27.94%",
-    "uptimeMonth": "27.94%",
-    "uptimeYear": "27.94%",
+    "status": "down",
+    "uptime": "38.08%",
+    "uptimeDay": "38.08%",
+    "uptimeWeek": "38.08%",
+    "uptimeMonth": "38.08%",
+    "uptimeYear": "38.08%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-02-16": 110
+      "2022-02-16": 99
     }
   },
   {
@@ -227,18 +227,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vealca",
     "status": "down",
-    "uptime": "40.86%",
-    "uptimeDay": "40.86%",
-    "uptimeWeek": "40.86%",
-    "uptimeMonth": "40.86%",
-    "uptimeYear": "40.86%",
+    "uptime": "40.01%",
+    "uptimeDay": "40.01%",
+    "uptimeWeek": "40.01%",
+    "uptimeMonth": "40.01%",
+    "uptimeYear": "40.01%",
     "time": 304,
     "timeDay": 304,
     "timeWeek": 304,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-02-16": 210
+      "2022-02-16": 218
     }
   },
   {
@@ -246,19 +246,19 @@
     "url": "$URL_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "los-tres-grandes",
-    "status": "up",
-    "uptime": "49.74%",
-    "uptimeDay": "49.74%",
-    "uptimeWeek": "49.74%",
-    "uptimeMonth": "49.74%",
-    "uptimeYear": "49.74%",
+    "status": "down",
+    "uptime": "53.75%",
+    "uptimeDay": "53.75%",
+    "uptimeWeek": "53.75%",
+    "uptimeMonth": "53.75%",
+    "uptimeYear": "53.75%",
     "time": 256,
     "timeDay": 256,
     "timeWeek": 256,
     "timeMonth": 256,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2022-02-16": 178
+      "2022-02-16": 167
     }
   },
   {
@@ -266,12 +266,12 @@
     "url": "$URL_15",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nino",
-    "status": "up",
-    "uptime": "17.88%",
-    "uptimeDay": "17.88%",
-    "uptimeWeek": "17.88%",
-    "uptimeMonth": "17.88%",
-    "uptimeYear": "17.88%",
+    "status": "down",
+    "uptime": "19.56%",
+    "uptimeDay": "19.56%",
+    "uptimeWeek": "19.56%",
+    "uptimeMonth": "19.56%",
+    "uptimeYear": "19.56%",
     "time": 350,
     "timeDay": 350,
     "timeWeek": 350,
@@ -287,18 +287,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "la-especial",
     "status": "down",
-    "uptime": "59.85%",
-    "uptimeDay": "59.85%",
-    "uptimeWeek": "59.85%",
-    "uptimeMonth": "59.85%",
-    "uptimeYear": "59.85%",
+    "uptime": "58.60%",
+    "uptimeDay": "58.60%",
+    "uptimeWeek": "58.60%",
+    "uptimeMonth": "58.60%",
+    "uptimeYear": "58.60%",
     "time": 490,
     "timeDay": 490,
     "timeWeek": 490,
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2022-02-16": 143
+      "2022-02-16": 150
     }
   }
 ]
