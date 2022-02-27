@@ -168,12 +168,12 @@
     "url": "$URL_10",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "el-criollito",
-    "status": "up",
-    "uptime": "80.45%",
-    "uptimeDay": "47.38%",
-    "uptimeWeek": "68.74%",
-    "uptimeMonth": "80.45%",
-    "uptimeYear": "80.45%",
+    "status": "down",
+    "uptime": "80.70%",
+    "uptimeDay": "47.53%",
+    "uptimeWeek": "69.13%",
+    "uptimeMonth": "80.70%",
+    "uptimeYear": "80.70%",
     "time": 255,
     "timeDay": 271,
     "timeWeek": 247,
@@ -186,7 +186,7 @@
       "2022-02-24": 588,
       "2022-02-23": 569,
       "2022-02-22": 426,
-      "2022-02-21": 137
+      "2022-02-21": 98
     }
   },
   {
@@ -194,12 +194,12 @@
     "url": "$URL_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "industrias-bjt",
-    "status": "up",
-    "uptime": "79.24%",
-    "uptimeDay": "51.04%",
-    "uptimeWeek": "66.81%",
-    "uptimeMonth": "79.24%",
-    "uptimeYear": "79.24%",
+    "status": "down",
+    "uptime": "79.58%",
+    "uptimeDay": "51.61%",
+    "uptimeWeek": "67.34%",
+    "uptimeMonth": "79.58%",
+    "uptimeYear": "79.58%",
     "time": 268,
     "timeDay": 285,
     "timeWeek": 256,
@@ -212,7 +212,7 @@
       "2022-02-24": 555,
       "2022-02-23": 680,
       "2022-02-22": 535,
-      "2022-02-21": 263
+      "2022-02-21": 210
     }
   },
   {
@@ -221,11 +221,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hc-import",
     "status": "up",
-    "uptime": "79.26%",
+    "uptime": "79.27%",
     "uptimeDay": "51.90%",
     "uptimeWeek": "67.26%",
-    "uptimeMonth": "79.26%",
-    "uptimeYear": "79.26%",
+    "uptimeMonth": "79.27%",
+    "uptimeYear": "79.27%",
     "time": 282,
     "timeDay": 360,
     "timeWeek": 283,
@@ -246,12 +246,12 @@
     "url": "$URL_13",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vealca",
-    "status": "up",
-    "uptime": "78.97%",
-    "uptimeDay": "43.11%",
-    "uptimeWeek": "66.37%",
-    "uptimeMonth": "78.97%",
-    "uptimeYear": "78.97%",
+    "status": "down",
+    "uptime": "79.12%",
+    "uptimeDay": "43.27%",
+    "uptimeWeek": "66.59%",
+    "uptimeMonth": "79.12%",
+    "uptimeYear": "79.12%",
     "time": 298,
     "timeDay": 320,
     "timeWeek": 314,
@@ -264,7 +264,7 @@
       "2022-02-24": 552,
       "2022-02-23": 516,
       "2022-02-22": 522,
-      "2022-02-21": 270
+      "2022-02-21": 247
     }
   },
   {
@@ -272,12 +272,12 @@
     "url": "$URL_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "los-tres-grandes",
-    "status": "up",
-    "uptime": "78.35%",
-    "uptimeDay": "51.87%",
-    "uptimeWeek": "65.38%",
-    "uptimeMonth": "78.35%",
-    "uptimeYear": "78.35%",
+    "status": "down",
+    "uptime": "78.46%",
+    "uptimeDay": "51.84%",
+    "uptimeWeek": "65.55%",
+    "uptimeMonth": "78.46%",
+    "uptimeYear": "78.46%",
     "time": 253,
     "timeDay": 275,
     "timeWeek": 242,
@@ -290,7 +290,7 @@
       "2022-02-24": 607,
       "2022-02-23": 717,
       "2022-02-22": 591,
-      "2022-02-21": 40
+      "2022-02-21": 23
     }
   },
   {
@@ -299,24 +299,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nino",
     "status": "up",
-    "uptime": "78.36%",
-    "uptimeDay": "44.58%",
-    "uptimeWeek": "65.40%",
-    "uptimeMonth": "78.36%",
-    "uptimeYear": "78.36%",
+    "uptime": "78.33%",
+    "uptimeDay": "45.32%",
+    "uptimeWeek": "65.34%",
+    "uptimeMonth": "78.33%",
+    "uptimeYear": "78.33%",
     "time": 249,
     "timeDay": 278,
     "timeWeek": 242,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-02-27": 218,
+      "2022-02-27": 207,
       "2022-02-26": 630,
       "2022-02-25": 583,
       "2022-02-24": 643,
       "2022-02-23": 794,
       "2022-02-22": 406,
-      "2022-02-21": 207
+      "2022-02-21": 223
     }
   },
   {
@@ -324,12 +324,12 @@
     "url": "$URL_16",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "la-especial",
-    "status": "up",
-    "uptime": "74.06%",
-    "uptimeDay": "49.15%",
-    "uptimeWeek": "58.52%",
-    "uptimeMonth": "74.06%",
-    "uptimeYear": "74.06%",
+    "status": "down",
+    "uptime": "74.76%",
+    "uptimeDay": "49.31%",
+    "uptimeWeek": "59.62%",
+    "uptimeMonth": "74.76%",
+    "uptimeYear": "74.76%",
     "time": 330,
     "timeDay": 343,
     "timeWeek": 324,
@@ -342,7 +342,7 @@
       "2022-02-24": 832,
       "2022-02-23": 603,
       "2022-02-22": 469,
-      "2022-02-21": 672
+      "2022-02-21": 561
     }
   }
 ]
